@@ -11,6 +11,14 @@ app = Flask(__name__)
 # 🧠 Model and Paths
 # -------------------------------------------------------------
 MODEL_PATH = "model/AgroVision_model.h5"
+# Auto-download model from Google Drive if not found or corrupted
+if not os.path.exists(MODEL_PATH) or os.path.getsize(MODEL_PATH) < 100000:
+    import gdown
+    print("⚠️ Model not found or incomplete — downloading from Drive...")
+    os.makedirs("model", exist_ok=True)
+    drive_url = "https://drive.google.com/uc?id=1ITThppMgw-CNIVkCjd8VAlkrDbgiPazt"  # your model's Drive link
+    gdown.download(drive_url, MODEL_PATH, quiet=False)
+
 UPLOAD_FOLDER = "static/uploaded_images"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
