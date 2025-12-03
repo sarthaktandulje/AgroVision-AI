@@ -5,8 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Railway](https://img.shields.io/badge/Deployed%20on-Railway-0A0A0A?style=for-the-badge&logo=railway&logoColor=white)
 
-## 🌐 Live Demo  
-👉 [**Visit AgroVision**](https://web-production-d70f5.up.railway.app/)  
+
 
 ---
 
