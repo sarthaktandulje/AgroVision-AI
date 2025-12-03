@@ -3,7 +3,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Railway](https://img.shields.io/badge/Deployed%20on-Railway-0A0A0A?style=for-the-badge&logo=railway&logoColor=white)
+
 
 
 
