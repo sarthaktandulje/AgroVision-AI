@@ -35,8 +35,16 @@ It helps farmers, researchers, and agri-enthusiasts diagnose plant health instan
 | **Model** | TensorFlow / Keras |
 | **Deployment** | Railway.app |
 | **Version Control** | Git + Git LFS |
+---
+
+## ⚠️ Disclaimer
+
+> **AgroVision-AI is not a certified plant diagnosis tool.**
+> This project is developed strictly for **educational, research, and demonstration purposes**.
+> Always consult a **qualified plant diagnosis professional** or a **certified diagnostic model** for real diagnosis.
 
 ---
+
 ## 👨‍💻 Author – Sarthak Tandulje  
 
 Hi, I'm **Sarthak Tandulje**, a high-school student from India with a strong passion for **Artificial Intelligence, Machine Learning, and Computational Sciences**.  
