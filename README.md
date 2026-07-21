@@ -12,7 +12,12 @@
 ## 🧠 About the Project
 
 **AgroVision** is an AI-powered web application built using **Flask** and **TensorFlow** that detects tomato leaf diseases from images.  
-It helps farmers, researchers, and agri-enthusiasts diagnose plant health instantly and offers preventive measures 🌱  
+It helps farmers, researchers, and agri-enthusiasts diagnose plant health instantly and offers preventive measures 🌱 
+
+---
+
+### 🔴 Deployed on Kaggle:-
+--> https://www.kaggle.com/models/sarthaktandulje/agrovision-ai
 
 ---
 
