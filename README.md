@@ -53,14 +53,14 @@ It helps farmers, researchers, and agri-enthusiasts diagnose plant health instan
 ##  Author – Sarthak Tandulje  
 
 Hi, I'm **Sarthak Tandulje**, a high-school student from India with a strong passion for **Artificial Intelligence, Machine Learning, and Computational Sciences**.  
-I’m deeply fascinated by how modern technology and scientific principles (especially **Physics, Chemistry, and Mathematics**) can combine to solve real-world challenges — whether in agriculture 🌿, healthcare 💊, or sustainability 🌎.  
+I’m deeply fascinated by how modern technology and scientific principles (especially **Physics, Chemistry, and Mathematics**) can combine to solve real-world challenges — whether in agriculture , healthcare , or sustainability .  
 
 Through **AgroVision**, I wanted to create something that blends my love for science and AI — an intelligent system that supports farmers and promotes food security using modern tools.  
 
 ###  My Goals:
-- To pursue higher studies in ** AI and Machine Learning **
+- To pursue higher studies in **AI and Machine Learning**
 - To research AI applications in **sustainable agriculture, robotics, and smart automation**  
-- To continue developing projects that merge **science + technology + humanity** 🌱  
+- To continue developing projects that merge **science + technology + humanity**   
 
 ###  Skills:
 - **Languages:** Python, HTML, CSS, JavaScript  
@@ -68,7 +68,7 @@ Through **AgroVision**, I wanted to create something that blends my love for sci
 - **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science, Physics-based Computing  
 
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/sarthaktandulje/AgroVision-Mode-2.git
